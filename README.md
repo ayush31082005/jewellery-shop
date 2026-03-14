@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💎 Swarna Fine Jewellers — React Frontend (White Theme)
 
 A complete ultra-luxury jewellery shop React.js frontend with Tailwind CSS.
@@ -82,3 +83,6 @@ src/
 npm run build
 # Output in dist/ folder
 ```
+=======
+# jewellery-shop
+>>>>>>> b8e4dce1144bbb941faf3b1491b8f4349c381c9b
